@@ -1,6 +1,7 @@
 # machine-learning
-
-## pytorch learning progress
+- pytorch
+- machine learning theory and algorism
+## pytorch
 |id|content|
 |---|---|
 |1|dataset|
