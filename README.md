@@ -4,5 +4,6 @@
 |id|content|
 |---|---|
 |1|dataset|
-|2|tensoroard|
-|3|torchvision|
+|2|tensoroard/totensor/resize/compose|
+|3|torchvision/download dataset|
+|4|dataloader|
