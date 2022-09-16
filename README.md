@@ -8,4 +8,4 @@
 |2|tensoroard/totensor/resize/compose|
 |3|torchvision/download dataset|
 |4|dataloader|
-|5|nn.Module|
+|5|convolutional layer|
