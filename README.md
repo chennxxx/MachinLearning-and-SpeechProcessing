@@ -9,3 +9,4 @@
 |3|torchvision/download dataset|
 |4|dataloader|
 |5|convolutional layer|
+|6|relu/sigmoid|
