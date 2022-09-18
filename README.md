@@ -4,9 +4,19 @@
 |1|[pytorch tutorial](https://github.com/xiaotudui/pytorch-tutorial.git)|&#x2705;|
 |2|machine learning by Huang Yi Lee||
 
+# paper
+|id|paper title|link|
+|---|---|---|
+|1|Speech and Language Processing Over the World Wide Web ||
+
+
+
 # machine learning
 - pytorch
 - machine learning theory and algorism
+
+
+
 
 
 ## pytorch
