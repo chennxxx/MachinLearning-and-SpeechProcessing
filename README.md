@@ -1,6 +1,8 @@
 # machine-learning
 - pytorch
-- machine learning theory and algorism
+- machine learning theory and algorism &#x2705;
+
+
 ## pytorch
 |id|content|
 |---|---|
