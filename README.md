@@ -1,4 +1,4 @@
-# machine-learning
+# machine learning
 - pytorch
 - machine learning theory and algorism &#x2705;
 
