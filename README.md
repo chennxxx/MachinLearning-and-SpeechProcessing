@@ -1,3 +1,9 @@
+# learning progress
+|id|course|progress|
+|---|---|---|
+|1|[pytorch tutorial](https://github.com/xiaotudui/pytorch-tutorial.git)|&#x2705;|
+|2|machine learning by Huang Yi Lee||
+
 # machine learning
 - pytorch
 - machine learning theory and algorism &#x2705;
