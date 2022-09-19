@@ -15,7 +15,9 @@
 - pytorch
 - machine learning theory and algorism
 
-
+|id|content|
+|---|---|
+|1|CNN|
 
 
 
