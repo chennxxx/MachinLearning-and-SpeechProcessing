@@ -23,8 +23,8 @@
 
 |id|content|
 |---|---|
-|1|C|
-
+|1|brief introduction|
+|2|foundamentals of speech recognition|
 
 ## pytorch
 |id|content|
