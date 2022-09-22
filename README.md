@@ -19,6 +19,11 @@
 |---|---|
 |1|CNN|
 
+# digital speech processing
+
+|id|content|
+|---|---|
+|1|C|
 
 
 ## pytorch
