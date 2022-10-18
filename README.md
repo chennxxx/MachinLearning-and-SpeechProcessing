@@ -7,7 +7,7 @@
 # paper
 |id|paper title|link|
 |---|---|---|
-|1|Speech and Language Processing Over the World Wide Web ||
+|1|Speech and Language Processing Over the World Wide Web |&#x2705;|
 
 
 
